@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="360"
+   height="270"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="odroid case mount holes.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8232859"
+     inkscape:cx="105.39282"
+     inkscape:cy="150.14188"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="in"
+     inkscape:window-width="1456"
+     inkscape:window-height="1110"
+     inkscape:window-x="332"
+     inkscape:window-y="174"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="in"
+       spacingx="0.125in"
+       spacingy="0.125in" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-782.3597)">
+    <g
+       id="g3801">
+      <path
+         transform="matrix(0.98901116,0,0,0.98896784,39.4375,1135.307)"
+         d="m 11.25,-129.375 a 5.625,5.625 0 1 1 -11.25,0 5.625,5.625 0 1 1 11.25,0 z"
+         sodipodi:ry="5.625"
+         sodipodi:rx="5.625"
+         sodipodi:cy="-129.375"
+         sodipodi:cx="5.625"
+         id="path2987"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.98901116,0,0,0.98896784,309.4375,1135.307)"
+         d="m 11.25,-129.375 a 5.625,5.625 0 1 1 -11.25,0 5.625,5.625 0 1 1 11.25,0 z"
+         sodipodi:ry="5.625"
+         sodipodi:rx="5.625"
+         sodipodi:cy="-129.375"
+         sodipodi:cx="5.625"
+         id="path2987-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.98901116,0,0,0.98896784,309.4375,955.307)"
+         d="m 11.25,-129.375 a 5.625,5.625 0 1 1 -11.25,0 5.625,5.625 0 1 1 11.25,0 z"
+         sodipodi:ry="5.625"
+         sodipodi:rx="5.625"
+         sodipodi:cy="-129.375"
+         sodipodi:cx="5.625"
+         id="path2987-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.98901116,0,0,0.98896784,39.4375,955.307)"
+         d="m 11.25,-129.375 a 5.625,5.625 0 1 1 -11.25,0 5.625,5.625 0 1 1 11.25,0 z"
+         sodipodi:ry="5.625"
+         sodipodi:rx="5.625"
+         sodipodi:cy="-129.375"
+         sodipodi:cx="5.625"
+         id="path2987-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3799"
+       width="337.5"
+       height="247.5"
+       x="11.25"
+       y="11.25"
+       transform="translate(0,782.3597)" />
+  </g>
+</svg>
