@@ -122,5 +122,15 @@
        sodipodi:ry="11.25"
        d="m 112.5,-33.75 a 11.25,11.25 0 1 1 -22.5,0 11.25,11.25 0 1 1 22.5,0 z"
        transform="matrix(0.59668435,0,0,0.59614549,55.710909,1016.6605)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.09;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3831"
+       sodipodi:cx="185.625"
+       sodipodi:cy="174.375"
+       sodipodi:rx="16.875"
+       sodipodi:ry="16.875"
+       d="m 202.5,174.375 a 16.875,16.875 0 1 1 -33.75,0 16.875,16.875 0 1 1 33.75,0 z"
+       transform="matrix(1.0627305,0,0,1.0628179,-19.613272,689.37333)" />
   </g>
 </svg>
